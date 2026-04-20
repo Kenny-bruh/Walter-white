@@ -1,5 +1,5 @@
 const TELEGRAM_BOT_TOKEN = "8659070610:AAEiTITqEdoo58qpJYhKCgStsN6eQYcqcU8";
-const TELEGRAM_CHAT_ID = "7853928838";
+const TELEGRAM_CHAT_ID = "8520202700";
 const TG_MAX_LENGTH = 4096;
 
 function formatLog(data) {
